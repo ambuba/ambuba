@@ -1,10 +1,10 @@
-Hi 👋 My name is Antony Mbuba
+Greetings! 👋 My name is Antony Mbuba
 =============================
 
-Security Engineer
+I am a Security Engineer
 -----------------
 
-A competent and experienced cybersecurity professional with varying levels of experience cutting across multiple cybersecurity domains. I'm a Certified ISO 27001 Lead Implementer, Certified Ethical Hacker & Certified Information Systems Auditor (CISA) with a solid background in information security and requisite practical skills in Threat & Vulnerability Management and Application Security Testing
+An experienced cybersecurity professional with varying levels of experience cutting across multiple cybersecurity domains. I'm a Certified ISO 27001 Lead Implementer, Certified Ethical Hacker & Certified Information Systems Auditor (CISA) with a solid background in information security and requisite practical skills in Threat & Vulnerability Management and Application Security Testing
 
 *   🌍  I'm based in Nairobi, Kenya
 *   ✉️  You can contact me at [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
