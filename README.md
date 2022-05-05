@@ -8,7 +8,7 @@ An experienced cybersecurity professional with varying levels of experience cutt
 
 *   🌍  I'm based in Nairobi, Kenya
 *   ✉️  You can contact me via [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
-*   🧠  I'm learning Web3 Technology Stack & DevSecOps Technologies
+*   🧠  I'm currently learning Web3 Technology Stack & DevSecOps Technologies
 *   🤝  I'm open to collaborating on Web3, DevOPs & Cryptocurrency Projects
 *   ⚡  One of my names is a palindrome!### Skills<p align="left">
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
