@@ -1,4 +1,4 @@
-Greetings! 👋 My name is Antony Mbuba
+Greetings! 👋 My Name is Antony Mbuba
 =============================
 
 I am a Security Engineer
