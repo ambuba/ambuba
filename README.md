@@ -7,7 +7,7 @@ I am a Security Engineer
 An experienced cybersecurity professional with varying levels of experience cutting across multiple cybersecurity domains. I'm a Certified ISO 27001 Lead Implementer, Certified Ethical Hacker & Certified Information Systems Auditor (CISA) with a solid background in information security and requisite practical skills in Threat & Vulnerability Management and Application Security Testing
 
 *   🌍  I'm based in Nairobi, Kenya
-*   ✉️  You can contact me at [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
+*   ✉️  You can contact me via [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
 *   🧠  I'm learning Web3 Technology Stack & DevSecOps Technologies
 *   🤝  I'm open to collaborating on Web3, DevOPs & Cryptocurrency Projects
 *   ⚡  One of my names is a palindrome!### Skills<p align="left">
