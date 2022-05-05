@@ -12,8 +12,6 @@ An experienced cybersecurity professional with varying levels of experience cutt
 *   🤝  I'm open to collaborating on Web3, DevOPs & Cryptocurrency Projects
 *   ⚡  An interesting fact: One of my names is a palindrome!
 
-<a href="https://www.github.com/ambuba" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ambuba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Top Skills
 
