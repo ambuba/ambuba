@@ -1,15 +1,15 @@
 Greetings! 👋 My Name is Antony Mbuba
 =============================
 
-I am a Security Engineer
+I am a Security Architect
 -----------------
 
-An experienced cybersecurity professional with varying levels of experience cutting across multiple cybersecurity domains. I'm a Certified ISO 27001 Lead Implementer, Certified Ethical Hacker & Certified Information Systems Auditor (CISA) with a solid background in information security and requisite practical skills in Threat & Vulnerability Management and Application Security Testing
+Security leader with over a decade in IT and cybersecurity spanning enterprise security architecture, DevSecOps, cloud security and more. Proven ability to operationalize secure design principles, embed controls in software delivery pipelines, and lead high-impact security programs in highly regulated financial environments.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   ✉️  You can contact me via [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
-*   🧠  I'm currently learning Web3 Technology Stack & DevSecOps Technologies
-*   🤝  I'm open to collaborating on Web3, DevOPs & Cryptocurrency Projects
+*   🧠  I'm currently learning Web3 Technology Stack, Agile Threat Modeling, AI/ML Security & DevSecOps Technologies
+*   🤝  I'm open to collaborating on Web3, DevSecOPs, AI/ML Security & Cryptocurrency Projects
 *   ⚡  An interesting fact: One of my names is a palindrome!
 
 
