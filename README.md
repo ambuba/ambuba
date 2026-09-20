@@ -1,67 +1,43 @@
-Greetings! 👋 My Name is Antony Mbuba
-=============================
+# Antony Mbuba
 
-I am a Security Architect
------------------
+**Security Architect | Product & Application Security | Cloud Security | Threat Modeling | DevSecOps | AI Security**
 
-Security leader with over a decade in IT and cybersecurity spanning enterprise security architecture, DevSecOps, cloud security and more. Proven ability to operationalize secure design principles, embed controls in software delivery pipelines, and lead high-impact security programs in highly regulated financial environments.
+I design security architectures and practical controls for complex, regulated environments. My work spans secure design reviews, threat modeling, cloud and infrastructure security, identity and Zero Trust, application security, DevSecOps, vulnerability management, and security governance.
 
-*   🌍  I'm based in Nairobi, Kenya
-*   ✉️  You can contact me via [pentestcave@gmail.com](mailto:pentestcave@gmail.com)
-*   🧠  I'm currently learning Web3 Technology Stack, Agile Threat Modeling, AI/ML Security & DevSecOps Technologies
-*   🤝  I'm open to collaborating on Web3, DevSecOPs, AI/ML Security & Cryptocurrency Projects
-*   ⚡  An interesting fact: One of my names is a palindrome!
+I focus on turning security requirements into designs and delivery practices that engineering, platform, infrastructure, and risk teams can apply.
 
+## Areas of focus
 
-### Top Skills
+- Enterprise and solution security architecture
+- Product and application security
+- Threat modeling and secure design reviews
+- Cloud security across AWS and Azure environments
+- DevSecOps and software supply-chain security
+- Identity, Zero Trust, network and infrastructure security
+- Vulnerability and exposure management
+- AI/ML and LLM security
 
-<p align="left">
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-                                <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-                                <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-                                <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-                                <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-                    </p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.codepen.io/ambuba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.github.com/ambuba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.linkedin.com/in/antonyirerimbuba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-<a href="http://www.medium.com/@pentestcave" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-<a href="https://www.twitter.com/AIMbuba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## Portfolio direction
 
-### Badges
+I am building a public, sanitized portfolio covering:
 
-<a href="http://www.github.com/ambuba"><img src="https://activity-graph.herokuapp.com/graph?username=ambuba&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- Security reference architectures and architecture decision records
+- Threat models for cloud-native and AI-enabled systems
+- Secure CI/CD patterns with automated security gates
+- Cloud security guardrails and control validation
+- Authorized web-application security labs and automation
 
-<a href="http://www.github.com/ambuba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ambuba&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+Public examples will exclude employer-confidential information, internal system details, and client data.
 
-<a href="http://www.github.com/ambuba"><img src="https://github-readme-stats.vercel.app/api?username=ambuba&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ambuba's GitHub stats" /></a>
+## Selected public work
 
-<a href="https://github.com/ambuba" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuba&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- [Web Application Security Labs](https://github.com/ambuba/webappsec) — authorized training labs, notes, and Python automation for web and API security. Documentation and safe-use guidance are being improved.
 
-### Support Me
+## Credentials
 
-<a href="https://www.buymeacoffee.com/ambuba"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+CISA · ISO/IEC 27001 Lead Implementer · CTMP · CAISP · AWS Certified Solutions Architect – Associate · CEH · ECSA · CompTIA Linux+ · KCNA · eJPT
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/antonyirerimbuba)
+- Based in Nairobi, Kenya; open to compelling international and remote opportunities
